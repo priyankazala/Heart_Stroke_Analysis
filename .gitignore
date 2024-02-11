@@ -1,18 +1,15 @@
 # Ignore data files
-data/*.csv
-
-# Ignore model files
-models/*.pkl
+healthcare-dataset-stroke-data.csv
 
 # Ignore Jupyter notebook checkpoints
-notebooks/.ipynb_checkpoints
+.ipynb_checkpoints
 
 # Ignore virtual environment directories
 venv/
 env/
 
 # vscode file
-.vscode/*
+.vscode
 
 # Ignore any other temporary or generated files
 *.log
