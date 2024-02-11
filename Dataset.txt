@@ -1,3 +1,0 @@
-This is the link to dataset download it from here:
-
-https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
