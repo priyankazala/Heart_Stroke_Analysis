@@ -3,6 +3,7 @@ healthcare-dataset-stroke-data.csv
 
 # Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints
+.Rhistory
 
 # Ignore virtual environment directories
 venv/

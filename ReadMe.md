@@ -1,4 +1,4 @@
-```markdown
+
 # Heart Stroke Analysis
 
 This project aims to analyze the risk of stroke occurrence in patients using machine learning classification models. Stroke is a leading cause of death and disability worldwide, and early detection and prevention are crucial in improving patient outcomes.
@@ -66,4 +66,3 @@ To run this project in Google Colab:
 In conclusion, this project demonstrated the application of machine learning algorithms in predicting stroke occurrence based on patient characteristics. By analyzing a comprehensive set of features and utilizing various classification models, we achieved promising results in identifying stroke risks. The findings from this study can aid in early detection and prevention of strokes, ultimately improving patient outcomes and reducing mortality rates.
 
 For more details, please refer to the individual Jupyter notebooks and their associated documentation within the project repository.
-```
